@@ -1,0 +1,11 @@
+
+  .social-icon{
+    display:flex;
+    column-gap: 12px;
+    flex-direction: row;
+  }
+
+  .bi{
+    width:30px;
+    height:20px;
+  }
