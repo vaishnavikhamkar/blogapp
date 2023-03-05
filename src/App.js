@@ -10,7 +10,7 @@ function App() {
      <div>
       <img className='blog-img' src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmxvZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"></img>
      </div>
-     <h1 className='Heading'>BLOGGAPP</h1>
+     <h1 className='Heading'>BLOGAPP</h1>
      <div className='Container'>
        <Posts/>
        <RightCard/>
